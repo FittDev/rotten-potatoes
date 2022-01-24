@@ -11,3 +11,5 @@ MONGODB_PORT => Posta de acesso ao MongoDB
 MONGODB_USERNAME => Usuário do MongoDB
 
 MONGODB_PASSWORD => Senha do MongoDB
+
+Alteração do projeto rotten-potatoes para inclusao das Git Actions CI/CD
